@@ -47,7 +47,7 @@ class YH:
 
 
 class HT:
-    DEFAULT_EXE_PATH = r'C:\htzqzyb2\xiadan.exe'
+    DEFAULT_EXE_PATH = r'C:\htwt\xiadan.exe'
     TITLE = '网上股票交易系统5.0'
 
     TRADE_SECURITY_CONTROL_ID = 1032
